@@ -33,3 +33,11 @@ The development of WeatherScope spanned several weeks, beginning with a basic pr
 CONCLUSION
 As the completion of this project draws near, I am filled with an overwhelming sense of fulfillment. WeatherScope is not merely a demonstration of my technical prowess but a testament to my enduring passion and unwavering determination. It stands as a harmonious fusion of my two deepest passions – the boundless realm of technology and the captivating grandeur of nature.
 My name is Jo-Anne Khang and I am a yet to become a Software Engineer.
+
+Link to the Project Landing page:
+White and Black Simple Lined White UI Blank Prototypes Website
+Observing the daily weather is part of a regular routine for many of us, so I was always curious on how the weather will…
+weatherscope-app.my.canva.site
+
+Link to the LinkedIn
+https://www.linkedin.com/posts/thato-jo-anne-khang-291704281_portfolio-project-blog-post-activity-7206696057949347841-SOQa?utm_source=combined_share_message&utm_medium=member_ios
